@@ -2,3 +2,8 @@
     text-transform: capitalize;
     background-color: black;
 }
+
+.align-middle{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}

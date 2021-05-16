@@ -1,5 +1,5 @@
 .datatable .col {
-    cursor: pointer;
+    cursor: crosshair;
     background-color: black;
     color: white;
 }
