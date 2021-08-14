@@ -1,5 +1,8 @@
 # user-directory2
 
+# Description
+- This project was created with React. The main purpose for this project is to look up employees in the system. The project alos shows information pertaining to that employee.
+
 # installation
 1. create a react app using "npx create-react-app {app name}
 2. npm i node
